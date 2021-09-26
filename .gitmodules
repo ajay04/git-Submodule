@@ -1,0 +1,3 @@
+[submodule "JavaMAvenWeb"]
+	path = JavaMAvenWeb
+	url = git@github.com:ajay04/JavaMAvenWeb.git
