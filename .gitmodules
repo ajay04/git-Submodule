@@ -1,3 +1,6 @@
 [submodule "JavaMAvenWeb"]
 	path = JavaMAvenWeb
 	url = git@github.com:ajay04/JavaMAvenWeb.git
+[submodule "Laravel_login_otp"]
+	path = Laravel_login_otp
+	url = git@github.com:ajay04/Laravel_login_otp.git
